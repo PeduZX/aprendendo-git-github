@@ -19,3 +19,7 @@ git commit --amend -m "Trocando botao para adivinhar"
 
 .markdown(md)
 https://wordpress.com/support/markdown-quick-reference/
+
+
+como criar um ADDREADME.md bonito (perfil)
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github
