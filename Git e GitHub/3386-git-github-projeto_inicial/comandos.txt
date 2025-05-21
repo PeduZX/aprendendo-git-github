@@ -12,3 +12,10 @@ git push -u origin master
 
 desfazer uma commit
 git reset --hard id do commit
+
+
+alterar o nome do commit
+git commit --amend -m "Trocando botao para adivinhar"
+
+.markdown(md)
+https://wordpress.com/support/markdown-quick-reference/
