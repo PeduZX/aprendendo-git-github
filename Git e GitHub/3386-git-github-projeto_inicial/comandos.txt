@@ -9,3 +9,6 @@ gh repo create nome-do-repositorio --public --source=. --remote=origin --push
 
 git remote add origin https://github.com/seu-usuario/nome-do-repositorio.git
 git push -u origin master
+
+desfazer uma commit
+git reset --hard id do commit
